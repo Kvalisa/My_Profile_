@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-![https://github.com/Kvalisa/My_Profile_/blob/main/thumbnail_IMG_0983.png](src)
-
 You can use the [editor on GitHub](https://github.com/Kvalisa/My_Profile_/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
