@@ -1,14 +1,23 @@
-## Welcome to GitHub Pages
-
-![Learning styles better v](https://user-images.githubusercontent.com/80017663/112461278-e2488d00-8db3-11eb-85be-4d2246b53c77.PNG)
+## Personal Information
 
 You can use the [editor on GitHub](https://github.com/Kvalisa/My_Profile_/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Intrest in IT
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Ideal Job
+
+### Personal Profile 
+
+```markdown
+<h2> Project Idea </h2>
+
+dhsgukchdskbcjdsbcjkbdsjkbc
+
+```
 
 ```markdown
 Syntax highlighted code block
